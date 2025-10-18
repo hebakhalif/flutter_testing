@@ -13,8 +13,7 @@ This project is part of the Flutter Testing Laboratory Assignment, which include
 Implemented a Validators class to validate email, password, and confirm password fields.  
 Added unit tests to check valid and invalid cases.
 
-### Test Command
-```bash
+
 flutter test test/validators_test.dart
 
 ### Screenshots
@@ -22,6 +21,8 @@ flutter test test/validators_test.dart
 | Validators Test | Registration Form Test |
 |-----------------|------------------------|
 | ![Validators Test](assets/Screenshot 2025-10-18 153235.png) | ![Registration Form Test](assets/Screenshot 2025-10-18 154940.png) |
+
+---
 
 ## Task 2: Registration Form (Widget Testing)
 
